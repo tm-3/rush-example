@@ -1,0 +1,7 @@
+{
+  "name": "core-comp-lib",
+  "version": "0.0.1",
+  "description": "A component library built with Svelte and Storybook",
+  "main": "src/main.html",
+  "scripts": {}
+}
